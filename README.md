@@ -9,13 +9,21 @@ to a certain tableau server.
 To run this code, first you need to create a subfolder structure for your workbooks as shown below:
 
 --Main Folder
+
 ----App1
+
 ------twb file 1
+
 ------twb file 2
+
 ------csv file containing username/password for all twb files in App1
+
 ----App2
+
 ------twb file 3
+
 ------twb file 4
+
 ------csv file containing username/password for all twb files in App2
 
 Based on this structure twb file 1 and 2 will be published in App1 folder on tableau server and 
